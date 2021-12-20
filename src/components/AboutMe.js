@@ -43,9 +43,11 @@ const AboutMe = () => {
             </ul>
           </div>
           <a
-            href="https://github.com/AbdoMohamed10/portfolio/tree/main/src/cv/Abdelrahman Mohamed Front End Developer.pdf"
+            href="https://abdomohamed10.github.io/portfolio/Abdelrahman%20Mohamed%20Full%20Stack%20Developer.pdf"
             download
             className="btn btn-outline-dark"
+            target="_blank"
+            rel="noreferrer"
           >
             Download CV
           </a>
