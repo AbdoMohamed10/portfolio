@@ -1,0 +1,45 @@
+.about-me {
+  display: flex;
+  padding-top: 200px;
+  padding-bottom: 10px;
+}
+
+.img-box img {
+  border-radius: 3px;
+  box-shadow: 1px 0px 5px 1px #999;
+}
+
+.about-box {
+  overflow: hidden;
+  padding-top: 20px;
+}
+
+.about-info {
+  padding-bottom: 20px;
+}
+
+/* .about-box h3 {
+  border-bottom: 1px solid;
+} */
+
+.skills-box {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.skills-box ul {
+  list-style: circle;
+}
+.about-me .separator svg {
+  fill: #444;
+}
+
+.contact-info {
+  padding-top: 20px;
+}
+
+.contact-info a {
+  color: black;
+  margin-right: 10px;
+  text-decoration: none;
+}

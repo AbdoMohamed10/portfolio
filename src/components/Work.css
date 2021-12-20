@@ -1,0 +1,23 @@
+.work img {
+  height: 213px;
+  width: 100%;
+  transition: transform 0.5s ease;
+}
+.work img:hover {
+  transform: scale(1.5);
+}
+
+.work .row div {
+  min-height: 213px;
+  max-height: 213px;
+  /* margin: 0 10px 10px 0; */
+}
+
+.work .img-box {
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.img-box .thumbnail:hover {
+  cursor: pointer;
+}

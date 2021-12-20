@@ -1,0 +1,19 @@
+.separator {
+  position: relative;
+  /* margin-top: 100px; */
+  z-index: 1000;
+  /* bottom: 60px; */
+  /* bottom: -1px; */
+  width: 100%;
+}
+.separator-left {
+  position: absolute;
+  border-bottom: 100px solid white;
+  border-left: 50vw solid transparent;
+}
+
+.separator-right {
+  position: absolute;
+  border-bottom: 100px solid white;
+  border-right: 50vw solid transparent;
+}
