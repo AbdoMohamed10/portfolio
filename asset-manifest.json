@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f00a6e44.chunk.css",
+    "main.js": "/portfolio/static/js/main.fc9ea18e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fc9ea18e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0bf68c44.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0bf68c44.js.map",
+    "static/css/2.383c0125.chunk.css": "/portfolio/static/css/2.383c0125.chunk.css",
+    "static/js/2.7ddd1ece.chunk.js": "/portfolio/static/js/2.7ddd1ece.chunk.js",
+    "static/js/2.7ddd1ece.chunk.js.map": "/portfolio/static/js/2.7ddd1ece.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/portfolio/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.f00a6e44.chunk.css.map": "/portfolio/static/css/main.f00a6e44.chunk.css.map",
+    "static/js/2.7ddd1ece.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7ddd1ece.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/PermanentMarker-Regular.109a10dc.ttf",
+    "static/media/deceta_code.0719ba2c.jpeg": "/portfolio/static/media/deceta_code.0719ba2c.jpeg",
+    "static/media/deceta_dashboard.cdd7c39c.jpeg": "/portfolio/static/media/deceta_dashboard.cdd7c39c.jpeg",
+    "static/media/deceta_form.29fac469.jpeg": "/portfolio/static/media/deceta_form.29fac469.jpeg",
+    "static/media/deceta_input.8380f06a.jpeg": "/portfolio/static/media/deceta_input.8380f06a.jpeg",
+    "static/media/Header.css": "/portfolio/static/media/header.5dfe68ca.jpg",
+    "static/media/me2.04cadbd2.jpg": "/portfolio/static/media/me2.04cadbd2.jpg",
+    "static/media/weservio.a41b2310.PNG": "/portfolio/static/media/weservio.a41b2310.PNG",
+    "static/media/weservio_services.27dff77d.PNG": "/portfolio/static/media/weservio_services.27dff77d.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf68c44.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.7ddd1ece.chunk.js",
+    "static/css/main.f00a6e44.chunk.css",
+    "static/js/main.fc9ea18e.chunk.js"
+  ]
+}
