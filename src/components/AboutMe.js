@@ -43,7 +43,7 @@ const AboutMe = () => {
             </ul>
           </div>
           <a
-            href="../cv/Abdelrahman Mohamed Front End Developer.pdf"
+            href="https://github.com/AbdoMohamed10/portfolio/tree/main/src/cv/Abdelrahman Mohamed Front End Developer.pdf"
             download
             className="btn btn-outline-dark"
           >
