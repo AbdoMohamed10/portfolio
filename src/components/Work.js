@@ -7,6 +7,13 @@ import deceta_input from "../assets/works/deceta_input.jpeg";
 import deceta_code from "../assets/works/deceta_code.jpeg";
 import weservio from "../assets/works/weservio.PNG";
 import weservio_services from "../assets/works/weservio_services.PNG";
+import dietlys_login from "../assets/works/dietlys_login.png";
+import dietlys_attrs from "../assets/works/dietlys_attrs.png";
+import dietlys_home from "../assets/works/dietlys_home.png";
+import dietlys_live_orders from "../assets/works/dietlys_live_orders.png";
+import dietlys_order_details from "../assets/works/dietlys_order_details.png";
+import dietlys_orders from "../assets/works/dietlys_orders.png";
+import dietlys_product_edit from "../assets/works/dietlys_product_edit.png";
 
 import "./Work.css";
 import MyModal from "./Modal";
@@ -31,6 +38,90 @@ const Work = () => {
           <MyModal img={img} show={show} handleClose={handleClose} />
           <h1>Work</h1>
           <div className="row">
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_login)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_login}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_attrs)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_attrs}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_home)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_home}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_live_orders)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_live_orders}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_order_details)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_order_details}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_orders)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_orders}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_product_edit)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_product_edit}
+                  alt=""
+                />
+              </div>
+            </div>
             <div className="col-md-4 img-box">
               <div
                 className="thumbnail"
