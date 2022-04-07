@@ -14,6 +14,9 @@ import dietlys_live_orders from "../assets/works/dietlys_live_orders.png";
 import dietlys_order_details from "../assets/works/dietlys_order_details.png";
 import dietlys_orders from "../assets/works/dietlys_orders.png";
 import dietlys_product_edit from "../assets/works/dietlys_product_edit.png";
+import dietlys_client_home from "../assets/works/dietlys_client_home.png";
+import dietlys_client_login from "../assets/works/dietlys_client_login.png";
+import dietlys_client_register from "../assets/works/dietlys_client_register.png";
 
 import "./Work.css";
 import MyModal from "./Modal";
@@ -38,6 +41,42 @@ const Work = () => {
           <MyModal img={img} show={show} handleClose={handleClose} />
           <h1>Work</h1>
           <div className="row">
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_client_home)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_client_home}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_client_register)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_client_register}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="col-md-4 img-box">
+              <div
+                className="thumbnail"
+                onClick={() => showModal(dietlys_client_login)}
+              >
+                <img
+                  className="img-fluid img-thumbnail"
+                  src={dietlys_client_login}
+                  alt=""
+                />
+              </div>
+            </div>
             <div className="col-md-4 img-box">
               <div
                 className="thumbnail"
