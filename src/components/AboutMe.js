@@ -29,7 +29,6 @@ const AboutMe = () => {
               <li>React Native</li>
               <li>HTML</li>
               <li>CSS</li>
-              <li>Vue JS</li>
               <li>JQuery</li>
             </ul>
 
