@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.14c772a8.chunk.css",
-    "main.js": "/portfolio/static/js/main.d970e1ff.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d970e1ff.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2f0d9445.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2f0d9445.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.0bf68c44.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.0bf68c44.js.map",
     "static/css/2.383c0125.chunk.css": "/portfolio/static/css/2.383c0125.chunk.css",
@@ -13,14 +13,19 @@
     "static/css/main.14c772a8.chunk.css.map": "/portfolio/static/css/main.14c772a8.chunk.css.map",
     "static/js/2.c8afd814.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c8afd814.chunk.js.LICENSE.txt",
     "static/media/App.css": "/portfolio/static/media/PermanentMarker-Regular.109a10dc.ttf",
+    "static/media/branch.0014bc6a.png": "/portfolio/static/media/branch.0014bc6a.png",
+    "static/media/branch1.423479b6.png": "/portfolio/static/media/branch1.423479b6.png",
+    "static/media/branch2.be637d0f.png": "/portfolio/static/media/branch2.be637d0f.png",
+    "static/media/branchDetails.05e4f332.png": "/portfolio/static/media/branchDetails.05e4f332.png",
+    "static/media/cart.f4e2d8fe.png": "/portfolio/static/media/cart.f4e2d8fe.png",
+    "static/media/categoryBranches.1b399705.png": "/portfolio/static/media/categoryBranches.1b399705.png",
+    "static/media/consultation.e817fc8d.png": "/portfolio/static/media/consultation.e817fc8d.png",
+    "static/media/consultation1.f9109ab3.png": "/portfolio/static/media/consultation1.f9109ab3.png",
     "static/media/deceta_code.0719ba2c.jpeg": "/portfolio/static/media/deceta_code.0719ba2c.jpeg",
     "static/media/deceta_dashboard.cdd7c39c.jpeg": "/portfolio/static/media/deceta_dashboard.cdd7c39c.jpeg",
     "static/media/deceta_form.29fac469.jpeg": "/portfolio/static/media/deceta_form.29fac469.jpeg",
     "static/media/deceta_input.8380f06a.jpeg": "/portfolio/static/media/deceta_input.8380f06a.jpeg",
     "static/media/dietlys_attrs.20af949a.png": "/portfolio/static/media/dietlys_attrs.20af949a.png",
-    "static/media/dietlys_client_home.8535165c.png": "/portfolio/static/media/dietlys_client_home.8535165c.png",
-    "static/media/dietlys_client_login.8c3f318b.png": "/portfolio/static/media/dietlys_client_login.8c3f318b.png",
-    "static/media/dietlys_client_register.225d43ec.png": "/portfolio/static/media/dietlys_client_register.225d43ec.png",
     "static/media/dietlys_home.ad446389.png": "/portfolio/static/media/dietlys_home.ad446389.png",
     "static/media/dietlys_live_orders.82ab6298.png": "/portfolio/static/media/dietlys_live_orders.82ab6298.png",
     "static/media/dietlys_login.be7ae94c.png": "/portfolio/static/media/dietlys_login.be7ae94c.png",
@@ -28,15 +33,17 @@
     "static/media/dietlys_orders.fa60cb6c.png": "/portfolio/static/media/dietlys_orders.fa60cb6c.png",
     "static/media/dietlys_product_edit.7afa760a.png": "/portfolio/static/media/dietlys_product_edit.7afa760a.png",
     "static/media/Header.css": "/portfolio/static/media/header.256c6579.jpg",
+    "static/media/home.fa05a3f4.png": "/portfolio/static/media/home.fa05a3f4.png",
+    "static/media/home1.8aa4b798.png": "/portfolio/static/media/home1.8aa4b798.png",
     "static/media/me2.765aaf0f.jpg": "/portfolio/static/media/me2.765aaf0f.jpg",
-    "static/media/weservio.a41b2310.PNG": "/portfolio/static/media/weservio.a41b2310.PNG",
-    "static/media/weservio_services.27dff77d.PNG": "/portfolio/static/media/weservio_services.27dff77d.PNG"
+    "static/media/product.2cff64c7.png": "/portfolio/static/media/product.2cff64c7.png",
+    "static/media/register.104c4c87.png": "/portfolio/static/media/register.104c4c87.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0bf68c44.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.c8afd814.chunk.js",
     "static/css/main.14c772a8.chunk.css",
-    "static/js/main.d970e1ff.chunk.js"
+    "static/js/main.2f0d9445.chunk.js"
   ]
 }
