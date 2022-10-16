@@ -5,8 +5,7 @@ import deceta_dashboard from "../assets/works/deceta/deceta_dashboard.jpeg";
 import deceta_form from "../assets/works/deceta/deceta_form.jpeg";
 import deceta_input from "../assets/works/deceta/deceta_input.jpeg";
 import deceta_code from "../assets/works/deceta/deceta_code.jpeg";
-// import weservio from "../assets/works/weservio.PNG";
-// import weservio_services from "../assets/works/weservio_services.PNG";
+
 import dietlys_login from "../assets/works/dietlys-vendor/dietlys_login.png";
 import dietlys_attrs from "../assets/works/dietlys-vendor/dietlys_attrs.png";
 import dietlys_home from "../assets/works/dietlys-vendor/dietlys_home.png";
@@ -27,6 +26,14 @@ import dietlys_client_cart from "../assets/works/dietlys-client/cart.png";
 import dietlys_client_consultation from "../assets/works/dietlys-client/consultation.png";
 import dietlys_client_consultation1 from "../assets/works/dietlys-client/consultation1.png";
 import dietlys_client_product from "../assets/works/dietlys-client/product.png";
+
+import wash_home from "../assets/works/wash-capital/wash_home.png";
+import wash_customer_details from "../assets/works/wash-capital/wash_customer_details.png";
+import wash_item from "../assets/works/wash-capital/wash_item.png";
+import wash_order from "../assets/works/wash-capital/wash_order.png";
+import wash_order1 from "../assets/works/wash-capital/wash_order1.png";
+import wash_order_details from "../assets/works/wash-capital/wash_order_details.png";
+import wash_settings from "../assets/works/wash-capital/wash_settings.png";
 
 import "./Work.css";
 import MyModal from "./Modal";
@@ -51,14 +58,14 @@ const Work = () => {
           		<MyModal img={img} show={show} handleClose={handleClose} />
 				<h1>Work</h1>
           		<div className="row">
-					<div className="col-md-4 img-box">
+				  	<div className="col-md-4 img-box">
 						<div
 							className="thumbnail"
-							onClick={() => showModal(dietlys_client_home)}
+							onClick={() => showModal(wash_home)}
 						>
 							<img
 							className="img-fluid img-thumbnail"
-							src={dietlys_client_home}
+							src={wash_home}
 							alt=""
 							/>
 						</div>
@@ -67,11 +74,89 @@ const Work = () => {
 					<div className="col-md-4 img-box">
 						<div
 							className="thumbnail"
-							onClick={() => showModal(dietlys_client_home1)}
+							onClick={() => showModal(wash_order)}
 						>
 							<img
 							className="img-fluid img-thumbnail"
-							src={dietlys_client_home1}
+							src={wash_order}
+							alt=""
+							/>
+						</div>
+					</div>
+
+					<div className="col-md-4 img-box">
+						<div
+							className="thumbnail"
+							onClick={() => showModal(wash_order1)}
+						>
+							<img
+							className="img-fluid img-thumbnail"
+							src={wash_order1}
+							alt=""
+							/>
+						</div>
+					</div>
+
+					<div className="col-md-4 img-box">
+						<div
+							className="thumbnail"
+							onClick={() => showModal(wash_item)}
+						>
+							<img
+							className="img-fluid img-thumbnail"
+							src={wash_item}
+							alt=""
+							/>
+						</div>
+					</div>
+
+					<div className="col-md-4 img-box">
+						<div
+							className="thumbnail"
+							onClick={() => showModal(wash_order_details)}
+						>
+							<img
+							className="img-fluid img-thumbnail"
+							src={wash_order_details}
+							alt=""
+							/>
+						</div>
+					</div>
+
+					<div className="col-md-4 img-box">
+						<div
+							className="thumbnail"
+							onClick={() => showModal(wash_customer_details)}
+						>
+							<img
+							className="img-fluid img-thumbnail"
+							src={wash_customer_details}
+							alt=""
+							/>
+						</div>
+					</div>
+
+					<div className="col-md-4 img-box">
+						<div
+							className="thumbnail"
+							onClick={() => showModal(wash_settings)}
+						>
+							<img
+							className="img-fluid img-thumbnail"
+							src={wash_settings}
+							alt=""
+							/>
+						</div>
+					</div>
+
+					<div className="col-md-4 img-box">
+						<div
+							className="thumbnail"
+							onClick={() => showModal(dietlys_client_home)}
+						>
+							<img
+							className="img-fluid img-thumbnail"
+							src={dietlys_client_home}
 							alt=""
 							/>
 						</div>
@@ -208,18 +293,6 @@ const Work = () => {
 					</div>
 
 					{/* Dietlys Vendor */}
-					<div className="col-md-4 img-box">
-						<div
-							className="thumbnail"
-							onClick={() => showModal(dietlys_login)}
-						>
-							<img
-							className="img-fluid img-thumbnail"
-							src={dietlys_login}
-							alt=""
-							/>
-						</div>
-					</div>
 
 					<div className="col-md-4 img-box">
 						<div
@@ -229,19 +302,6 @@ const Work = () => {
 							<img
 							className="img-fluid img-thumbnail"
 							src={dietlys_attrs}
-							alt=""
-							/>
-						</div>
-					</div>
-
-					<div className="col-md-4 img-box">
-						<div
-							className="thumbnail"
-							onClick={() => showModal(dietlys_home)}
-						>
-							<img
-							className="img-fluid img-thumbnail"
-							src={dietlys_home}
 							alt=""
 							/>
 						</div>

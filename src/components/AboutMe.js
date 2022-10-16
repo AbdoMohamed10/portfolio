@@ -1,10 +1,10 @@
 import React from "react";
 import photo from "../assets/me2.jpg";
 import "./AboutMe.css";
-// import MailOutlineIcon from "@material-ui/icons/MailOutline";
-// import PhoneIcon from "@material-ui/icons/Phone";
-// import LinkedInIcon from "@material-ui/icons/LinkedIn";
-// import GitHubIcon from "@material-ui/icons/GitHub";
+import MailOutlineIcon from "@material-ui/icons/MailOutline";
+import PhoneIcon from "@material-ui/icons/Phone";
+import LinkedInIcon from "@material-ui/icons/LinkedIn";
+import GitHubIcon from "@material-ui/icons/GitHub";
 
 const AboutMe = () => {
   return (
@@ -26,7 +26,7 @@ const AboutMe = () => {
             <ul className="col-md-6">
               <li>Javascript</li>
               <li>React JS</li>
-              <li>React Native</li>
+              <li>Redux</li>
               <li>HTML</li>
               <li>CSS</li>
               <li>JQuery</li>
@@ -36,7 +36,7 @@ const AboutMe = () => {
               <li>PHP</li>
               <li>Laravel</li>
               <li>MySQL</li>
-              <li>Java</li>
+              <li>Basic knowledge of Java</li>
               <li>GitHub</li>
               <li>Agile</li>
             </ul>
@@ -51,33 +51,48 @@ const AboutMe = () => {
             Download CV
           </a>
         </div>
-        {/* <hr /> */}
-        {/* <div className="contact-info">
-          <h1>Contact Info</h1>
-          <p>
-            <MailOutlineIcon />{" "}
-            <a href="mailto:AbdoMohamed.1022@gmail.com">
+        <hr />
+        <h1>Contact Info</h1>
+        <div className="contact-info row">
+          <div className="col-lg-6">
+            <a
+              href="mailto:AbdoMohamed.1022@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <MailOutlineIcon />{" "}
               AbdoMohamed.1022@gmail.com
             </a>
-          </p>
-          <p>
-            <PhoneIcon /> 01118721030
-          </p>
-          <a
-            href="https://www.linkedin.com/in/abdelrahman-mohamed-778230175/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <LinkedInIcon />
-          </a>
-          <a
-            href="https://github.com/AbdoMohamed10"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <GitHubIcon />
-          </a>
-        </div> */}
+          </div>
+          <div className="col-lg-6">
+            <a
+              href="https://wa.me/+201118721030"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <PhoneIcon /> 01118721030
+            </a>
+          </div>
+          <div className="col-lg-6">
+            <a
+              href="https://www.linkedin.com/in/abdelrahman1022/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <LinkedInIcon /> LinkedIn
+            </a>
+          </div>
+          <div className="col-lg-6">
+            <a
+              href="https://github.com/AbdoMohamed10"
+              target="_blank"
+              rel="noreferrer"
+              className="col-lg-6"
+            >
+              <GitHubIcon /> GitHub
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );
