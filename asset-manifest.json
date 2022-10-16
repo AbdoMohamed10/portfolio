@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.14c772a8.chunk.css",
-    "main.js": "/portfolio/static/js/main.2f0d9445.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2f0d9445.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8e27375c.chunk.css",
+    "main.js": "/portfolio/static/js/main.a7348949.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a7348949.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.0bf68c44.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.0bf68c44.js.map",
     "static/css/2.383c0125.chunk.css": "/portfolio/static/css/2.383c0125.chunk.css",
-    "static/js/2.c8afd814.chunk.js": "/portfolio/static/js/2.c8afd814.chunk.js",
-    "static/js/2.c8afd814.chunk.js.map": "/portfolio/static/js/2.c8afd814.chunk.js.map",
+    "static/js/2.7ba122f4.chunk.js": "/portfolio/static/js/2.7ba122f4.chunk.js",
+    "static/js/2.7ba122f4.chunk.js.map": "/portfolio/static/js/2.7ba122f4.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/portfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.14c772a8.chunk.css.map": "/portfolio/static/css/main.14c772a8.chunk.css.map",
-    "static/js/2.c8afd814.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c8afd814.chunk.js.LICENSE.txt",
+    "static/css/main.8e27375c.chunk.css.map": "/portfolio/static/css/main.8e27375c.chunk.css.map",
+    "static/js/2.7ba122f4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7ba122f4.chunk.js.LICENSE.txt",
     "static/media/App.css": "/portfolio/static/media/PermanentMarker-Regular.109a10dc.ttf",
     "static/media/branch.0014bc6a.png": "/portfolio/static/media/branch.0014bc6a.png",
     "static/media/branch1.423479b6.png": "/portfolio/static/media/branch1.423479b6.png",
@@ -37,13 +37,20 @@
     "static/media/home1.8aa4b798.png": "/portfolio/static/media/home1.8aa4b798.png",
     "static/media/me2.765aaf0f.jpg": "/portfolio/static/media/me2.765aaf0f.jpg",
     "static/media/product.2cff64c7.png": "/portfolio/static/media/product.2cff64c7.png",
-    "static/media/register.104c4c87.png": "/portfolio/static/media/register.104c4c87.png"
+    "static/media/register.104c4c87.png": "/portfolio/static/media/register.104c4c87.png",
+    "static/media/wash_customer_details.4c1aa0f7.png": "/portfolio/static/media/wash_customer_details.4c1aa0f7.png",
+    "static/media/wash_home.0d93fb6c.png": "/portfolio/static/media/wash_home.0d93fb6c.png",
+    "static/media/wash_item.558c6148.png": "/portfolio/static/media/wash_item.558c6148.png",
+    "static/media/wash_order.b5dd0e06.png": "/portfolio/static/media/wash_order.b5dd0e06.png",
+    "static/media/wash_order1.710663bf.png": "/portfolio/static/media/wash_order1.710663bf.png",
+    "static/media/wash_order_details.19de120b.png": "/portfolio/static/media/wash_order_details.19de120b.png",
+    "static/media/wash_settings.471b06d6.png": "/portfolio/static/media/wash_settings.471b06d6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0bf68c44.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.c8afd814.chunk.js",
-    "static/css/main.14c772a8.chunk.css",
-    "static/js/main.2f0d9445.chunk.js"
+    "static/js/2.7ba122f4.chunk.js",
+    "static/css/main.8e27375c.chunk.css",
+    "static/js/main.a7348949.chunk.js"
   ]
 }
