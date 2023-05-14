@@ -42,7 +42,7 @@ const AboutMe = () => {
             </ul>
           </div>
           <a
-            href="https://abdomohamed10.github.io/portfolio/Abdelrahman%20Mohamed%20Front%20End%20Developer.pdf"
+            href="https://drive.google.com/file/d/1ENz2vU8gbYLdGL9KqOIkZKm-or2jU6ec/view?usp=share_link"
             download
             className="btn btn-outline-dark"
             target="_blank"

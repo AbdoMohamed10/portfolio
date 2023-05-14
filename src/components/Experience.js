@@ -16,7 +16,7 @@ const Experience = () => {
           <ul className="exp-list">
             <li>
               <div>
-                <h3>Q8 intouch</h3>
+                <h3>Sigma Tech</h3>
                 <p className="duration">
                   <ScheduleIcon /> January 2022 – Present
                 </p>
@@ -29,14 +29,12 @@ const Experience = () => {
                 </p>
                 <h4>Roles</h4>
                 <ul>
-                  <li>Suggested to use React js instead of php blade for frontend and started to work in new projects with it.</li>
-                  <li>
-                    Worked in dietlys dashboard to handle company's operations, branches and live orders and more using React js.
+                  <li> Suggested to use Javascript frameworks like (ReactJS, VueJS, Angular) instead of php blade for 
+                    frontend and started to work in new projects with them.
                   </li>
                   <li>
-                    Updated existing web apps, added new features and fixed bugs.
+                    Created new apps, updated existing web apps, added new features and fixed bugs
                   </li>
-                  <li>Worked with agile methodology.</li>
                 </ul>
               </div>
             </li>
