@@ -26,6 +26,7 @@ const AboutMe = () => {
             <ul className="col-md-6">
               <li>Javascript</li>
               <li>React JS</li>
+              <li>Vue JS</li>
               <li>Redux</li>
               <li>HTML</li>
               <li>CSS</li>
@@ -42,7 +43,7 @@ const AboutMe = () => {
             </ul>
           </div>
           <a
-            href="https://drive.google.com/file/d/1ENz2vU8gbYLdGL9KqOIkZKm-or2jU6ec/view?usp=share_link"
+            href="https://drive.google.com/file/d/1JiFjTjezp5WvjBVqfyv-TR-t_skZcumE/view?usp=sharing"
             download
             className="btn btn-outline-dark"
             target="_blank"
